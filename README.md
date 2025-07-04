@@ -84,5 +84,7 @@ An image classification system is a powerful tool that leverages machine learnin
 
 #OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/c1fcc782-15ac-42df-8596-a6121bcf78e5)
+
 
 
